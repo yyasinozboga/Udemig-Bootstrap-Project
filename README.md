@@ -10,8 +10,8 @@ HTML5 CSS3 BS JS
 
 ## Featured
 
-- \*\* Fully responsive
-- \*\* Open and close menu
+- **Fully responsive**
+- **Open and close menu**
 
 ## Preview
 
